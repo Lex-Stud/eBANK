@@ -1,0 +1,4 @@
+{"email":"john.doe@email.com","firstname":"John","lastname":"Doe","address":"1401 Stoltenberg Islands Geralynstad SD 36945","friends":[]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"36.46"},{"currencyName":"EUR","amount":"600.00"}]}
+{"email":"marta.vorbareata@email.com","firstname":"Marta","lastname":"Vorbareata","address":"Strada Prajiturii","friends":[]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"46.00"},{"currencyName":"EUR","amount":"600.00"}]}
